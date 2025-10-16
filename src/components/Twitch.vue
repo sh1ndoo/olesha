@@ -4,14 +4,14 @@
     <transition name="fade-slide">
       <div v-if="isMenuVisible" class="dropdown-menu">
         <a href="https://www.twitch.tv/olesha" target="_blank" class="dropdown-item">
-          <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/7ace7540-021a-4fbb-bcb1-0fd9d679ab66-profile_image-70x70.png" alt=""></img>
+          <img src="/images/olesha_tv.png" alt="">
           <div class="about">
             <div class="title">Olesha</div>
             <div class="description">Основной канал</div>
           </div>
         </a>
         <a href="https://www.twitch.tv/kukishkakish" target="_blank" class="dropdown-item">
-          <img src="https://static-cdn.jtvnw.net/user-default-pictures-uv/cdd517fe-def4-11e9-948e-784f43822e80-profile_image-70x70.png" alt=""></img>
+          <img src="/images/kukish.png" alt="">
           <div class="about">
             <div class="title">KukishKakish</div>
             <div class="description">???...</div>
@@ -31,7 +31,7 @@ export default {
   },
   methods: {
     showMenu() {
-      this.isMenuVisible = this.isMenuVisible === false ? true : false;
+      this.isMenuVisible = this.isMenuVisible === false;
     },
   }
 };

@@ -4,14 +4,14 @@
     <transition name="fade-slide">
     <div v-if="isMenuVisible" class="dropdown-menu">
       <a href="https://t.me/tribute/app?startapp=s9Bd" target="_blank" class="dropdown-item">
-        <img src='https://i.postimg.cc/sgQKH1yw/temp-Imagel-XVCj3.avif' alt=""></img>
+        <img src='/images/olesha_tg+.avif' alt="">
         <div class="about">
           <div class="title">Бабаба с бебебе</div>
           <div class="description">Приватка</div>
         </div>
       </a>
       <a href="https://t.me/etoolesha" target="_blank" class="dropdown-item">
-        <img src="https://i.postimg.cc/qqxWRqgq/temp-Imagetq-Gz-Ya.avif" alt=""></img>
+        <img src="/images/olesha_tg.avif" alt="">
         <div class="about">
           <div class="title">Олёша</div>
           <div class="description">Оффициальный тг канал</div>

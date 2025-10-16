@@ -4,14 +4,14 @@
     <transition name="fade-slide">
       <div v-if="isMenuVisible" class="dropdown-menu">
         <a href="https://www.youtube.com/@oleshacuts" target="_blank" class="dropdown-item">
-          <img src="https://yt3.googleusercontent.com/Mp03eJP-PXawVB2OfRdsA9nvNhhOaD0x8WrOUZbPZgGySvEbRRIZ3oZ0W0Akb1D-C56vUxel=s160-c-k-c0x00ffffff-no-rj" alt=""></img>
+          <img src="/images/olesha_cuts.jpg" alt=""></img>
           <div class="about">
             <div class="title">Стримы Олеши</div>
             <div class="description">Оффициальный канал с нарезками</div>
           </div>
         </a>
         <a href="https://www.youtube.com/@olesha" target="_blank" class="dropdown-item">
-          <img src="https://yt3.googleusercontent.com/cWqViCF8eDmCS_bYGu5ZfMlgqdUl1ZUTMgNX3UVg_QNDQt3UVuauIzBtFsl79689kTlFd6jo=s160-c-k-c0x00ffffff-no-rj" alt=""></img>
+          <img src="/images/olesha_yt.jpg" alt=""></img>
           <div class="about">
             <div class="title">Олёша</div>
             <div class="description">Оффициальный канал</div>
