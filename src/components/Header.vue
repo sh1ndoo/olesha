@@ -30,10 +30,17 @@
 import LiquidGlassFilter from "@/components/LiquidGlassFilter.vue";
 import ProfileIcon from "@/components/ProfileIcon.vue";
 defineEmits(['toggle-theme']);
+
+if (
+    /^((?!chrome|android).)*safari/i.test(navigator.userAgent)
+) {
+  document.documentElement.classList.add('is-safari');
+}
 </script>
 
 <style scoped>
 /* Базовые стили (сохраняем ваши) */
+
 .header {
   display: flex;
   position: sticky;
@@ -58,6 +65,10 @@ defineEmits(['toggle-theme']);
   0px 8px 24px rgba(17, 17, 26, 0.05) inset,
   0px 16px 56px rgba(17, 17, 26, 0.05) inset;
 
+}
+
+.is-safari .header {
+  backdrop-filter: blur(10px);
 }
 
 .logo {

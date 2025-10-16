@@ -34,6 +34,38 @@ const markdownInput = ref(
 > user: !gametime
 > holy_bot: @user, BATTLEFIELD 6 [00:30:00]
 > \`\`\`
+
+> [!COMMAND] !duel @user [кол-во мини-приколов]
+> Вызов на _дуэль_
+> \`\`\`
+> user1: !duel @user2 1000
+> StreamElements: @user2, @user1 хочет сразиться с вами на дуэли за 1000 Мини-приколы. Вы можете !accept или !deny в течение 2 минут
+> user2: !accept
+> StreamElements: user1 победил в Дуэли против user2 EZ и выиграл 30 Мини-приколы Clap
+> \`\`\`
+
+> [!COMMAND] !balance [nickname]
+> Просмотр своего баланса мини-приколов или другого чаттера
+> \`\`\`
+> user: !balance
+> StreamElements: У user 100000 мини-приколов xdd
+> \`\`\`
+> \`\`\`
+> user: !balance user2
+> StreamElements: У user2 200000 мини-приколов xdd
+> \`\`\`
+
+> [!COMMAND] !8ball
+> Ответ от _шара_
+> \`\`\`
+> user: !8ball стрим сегодня?
+> StreamElements: @user, шар «восьмерка» говорит: да я сам не знаю EZ
+> \`\`\`
+
+
+
+
+
 # Ссылки
 > [!COMMAND] !tg
 > Отправляет ссылку на лучший телеграм канал
@@ -62,6 +94,9 @@ const markdownInput = ref(
 > user: !tiktok
 > StreamElements: ТикТок Официальный СКИБИДИ СИГМА РИЗЗЛЕР TikTok канал ЗАПУЩЕН! Необходимо подписаться (если вы не леймик, офк): https://www.tiktok.com/@tiktokolesha
 > \`\`\`
+
+
+
 `
 );
 </script>
