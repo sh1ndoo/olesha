@@ -4,7 +4,7 @@ import SmallCard from './SmallCard.vue';
 
 const cards = ref([
   {
-    icon: '/public/images/rules.webp',
+    icon: '/images/rules.webp',
     title: 'Правила',
     href: '/rules',
     description: 'Правила Twitch, Reddit и Telegram',
@@ -18,7 +18,7 @@ const cards = ref([
   //   color: 'rgba(255,214,0,0.2)',
   // },
   {
-    icon: '/public/images/gaming.webp',
+    icon: '/images/gaming.webp',
     title: 'Игры',
     href: '/games',
     description: 'Все игры комьюнити собранные в одном месте',
@@ -26,7 +26,7 @@ const cards = ref([
     color: 'rgba(255,230,202,0.2)',
   },
   {
-    icon: '/public/images/commands.webp',
+    icon: '/images/commands.webp',
     title: 'Команды',
     href: '/commands',
     description: 'Список команд в Twitch чате',
@@ -53,14 +53,14 @@ const cards = ref([
   //   color: 'rgba(255,126,0,0.2)',
   // },
   {
-    icon: '/public/images/cinema.webp',
+    icon: '/images/cinema.webp',
     title: 'Аукционы',
     href: '/list',
     description: 'Список всего, что выпадало на Ауках',
     color: 'rgba(113,113,113,0.2)',
   },
   {
-    icon: '/public/images/art.webp',
+    icon: '/images/art.webp',
     title: 'Искусство',
     href: '/art',
     description: 'Всевозможные работы по нашему любимому стримеру',

@@ -74,28 +74,28 @@ const fakeApiDatabase = {
 1. [Uter Island](https://wplace.live/?lat=76.3151201039058&lng=95.37389615302733&zoom=11.198292140518463)
   | Общий план острова |
   | :---: |
-  | ![Описание 1](/public/images/island.png) |
+  | ![Описание 1](/images/island.png) |
 
 2. [Питерский филиал 1](https://wplace.live/?lat=59.93876857998747&lng=30.389853184277328&zoom=13.124357892544428)
   | Штаб Olesha Entertainment |
   | :---: |
-  | ![Описание 1](/public/images/piter_1.png) |
+  | ![Описание 1](/images/piter_1.png) |
 
 3. [Питерский филиал 2](https://wplace.live/?lat=60.004567041173324&lng=30.79063443427734&zoom=12.544862902091255)
   | Огромный Утер |
   | :---: |
-  | ![Описание 1](/public/images/piter_2.png) |
+  | ![Описание 1](/images/piter_2.png) |
 
 # Галерея Артов
 ###### Хотите добавить свой арт? Свяжитесь со мной в телеграм @ifknow_me
 ###### (Я пока добавил просто первые попавшиеся)
   | [Огромный Пиксельный Утер](https://wplace.live/?lat=76.23111273399499&lng=95.78715787177734&zoom=12.267100310098034) | [Втулковая пирамида](https://wplace.live/?lat=76.17107414922626&lng=95.67729459052734&zoom=13.492527839193672) | [Айсберг по Olesha](https://wplace.live/?lat=76.30467795247029&lng=95.50379849677734&zoom=12.793831398675922) |
   | :---: | :---: | :---: |
-  | ![Описание 1](/public/images/big_uter.png) | ![Описание 1](/public/images/tower.png) | ![Описание 1](/public/images/ice.png) |
+  | ![Описание 1](/images/big_uter.png) | ![Описание 1](/images/tower.png) | ![Описание 1](/images/ice.png) |
 
   | [КОТЫ НА АРБУЗЕ!!!](https://wplace.live/?lat=76.30846465519949&lng=95.26913052802733&zoom=13.640088162995111) |
   | :---: |
-  | ![Описание 1](/public/images/cats.png) |
+  | ![Описание 1](/images/cats.png) |
 
 `
   }
