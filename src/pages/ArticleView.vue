@@ -74,28 +74,28 @@ const fakeApiDatabase = {
 1. [Uter Island](https://wplace.live/?lat=76.3151201039058&lng=95.37389615302733&zoom=11.198292140518463)
   | Общий план острова |
   | :---: |
-  | ![Описание 1](https://i.postimg.cc/BZMZrR90/wplace-2025-10-12-03-12-02.png) |
+  | ![Описание 1](/public/images/island.png) |
 
 2. [Питерский филиал 1](https://wplace.live/?lat=59.93876857998747&lng=30.389853184277328&zoom=13.124357892544428)
   | Штаб Olesha Entertainment |
   | :---: |
-  | ![Описание 1](https://i.postimg.cc/vHZTDbLt/wplace-2025-10-12-03-11-12.png) |
+  | ![Описание 1](/public/images/piter_1.png) |
 
 3. [Питерский филиал 2](https://wplace.live/?lat=60.004567041173324&lng=30.79063443427734&zoom=12.544862902091255)
   | Огромный Утер |
   | :---: |
-  | ![Описание 1](https://i.postimg.cc/ncFj7vZj/wplace-2025-10-12-03-10-34.png) |
+  | ![Описание 1](/public/images/piter_2.png) |
 
 # Галерея Артов
 ###### Хотите добавить свой арт? Свяжитесь со мной в телеграм @ifknow_me
 ###### (Я пока добавил просто первые попавшиеся)
   | [Огромный Пиксельный Утер](https://wplace.live/?lat=76.23111273399499&lng=95.78715787177734&zoom=12.267100310098034) | [Втулковая пирамида](https://wplace.live/?lat=76.17107414922626&lng=95.67729459052734&zoom=13.492527839193672) | [Айсберг по Olesha](https://wplace.live/?lat=76.30467795247029&lng=95.50379849677734&zoom=12.793831398675922) |
   | :---: | :---: | :---: |
-  | ![Описание 1](https://i.postimg.cc/qRYwg4z3/wplace-2025-10-12-03-30-10.png) | ![Описание 1](https://i.postimg.cc/63DVtcmn/wplace-2025-10-12-03-33-07.png) | ![Описание 1](https://i.postimg.cc/d0ZmXgW2/wplace-2025-10-12-03-43-14.png) |
+  | ![Описание 1](/public/images/big_uter.png) | ![Описание 1](/public/images/tower.png) | ![Описание 1](/public/images/ice.png) |
 
   | [КОТЫ НА АРБУЗЕ!!!](https://wplace.live/?lat=76.30846465519949&lng=95.26913052802733&zoom=13.640088162995111) |
   | :---: |
-  | ![Описание 1](https://i.postimg.cc/bvKcfcpR/wplace-2025-10-12-03-51-03.png) |
+  | ![Описание 1](/public/images/cats.png) |
 
 `
   }
@@ -163,6 +163,4 @@ function editArticle() {
 .article-page { max-width: 750px; margin: 2rem auto; }
 .loading-state, .error-state { text-align: center; padding: 3rem; color: #888; }
 .error-state { color: red; }
-.content { line-height: 1.7; margin-top: 1.5rem; }
-.author { font-style: italic; color: #555; }
 </style>

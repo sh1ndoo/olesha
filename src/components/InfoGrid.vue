@@ -4,7 +4,7 @@ import SmallCard from './SmallCard.vue';
 
 const cards = ref([
   {
-    icon: 'https://cdn.7tv.app/emote/01FPPZBFCR00054ET7GQBW419Q/4x.webp',
+    icon: '/public/images/rules.webp',
     title: 'Правила',
     href: '/rules',
     description: 'Правила Twitch, Reddit и Telegram',
@@ -18,7 +18,7 @@ const cards = ref([
   //   color: 'rgba(255,214,0,0.2)',
   // },
   {
-    icon: 'https://cdn.7tv.app/emote/01GPAAPSKR0007K7TX1KJBG45J/4x.png',
+    icon: '/public/images/gaming.webp',
     title: 'Игры',
     href: '/games',
     description: 'Все игры комьюнити собранные в одном месте',
@@ -26,7 +26,7 @@ const cards = ref([
     color: 'rgba(255,230,202,0.2)',
   },
   {
-    icon: 'https://cdn.7tv.app/emote/01F6WP22CR0004YCK11WAVZHEW/4x.webp',
+    icon: '/public/images/commands.webp',
     title: 'Команды',
     href: '/commands',
     description: 'Список команд в Twitch чате',
@@ -53,14 +53,14 @@ const cards = ref([
   //   color: 'rgba(255,126,0,0.2)',
   // },
   {
-    icon: 'https://cdn.7tv.app/emote/01HWKSYVJR0004AH9BBRNT19QV/4x.webp',
+    icon: '/public/images/cinema.webp',
     title: 'Аукционы',
     href: '/list',
     description: 'Список всего, что выпадало на Ауках',
     color: 'rgba(113,113,113,0.2)',
   },
   {
-    icon: 'https://cdn.7tv.app/emote/01J8BAGFTG0001NDPTMGEE3497/4x.webp',
+    icon: '/public/images/art.webp',
     title: 'Искусство',
     href: '/art',
     description: 'Всевозможные работы по нашему любимому стримеру',
