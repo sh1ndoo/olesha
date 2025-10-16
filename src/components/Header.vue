@@ -151,7 +151,7 @@ nav a.router-link-active {
 @media (max-width: 868px) {
   .header {
     margin: 0 0px 24px 0px; /* Уменьшаем отступы для мобильных */
-    padding: 10px 15px; /* Уменьшаем внутренние отступы */
+    padding: 8px 15px; /* Уменьшаем внутренние отступы */
 
   }
 
